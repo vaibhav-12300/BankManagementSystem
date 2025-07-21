@@ -25,6 +25,3 @@ A simple **Bank Management System** desktop application built using **Java Swing
 - Java Swing (GUI)
 - JDBC (MySQL connector)
 - MySQL Database
-
----
-## 🧩 Project Structure
